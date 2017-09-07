@@ -1,0 +1,4 @@
+[submodule "original-event/hands-on-python"]
+	path = original-event/hands-on-python
+	url = https://github.com/stevedem/hands-on-python
+	branch = master

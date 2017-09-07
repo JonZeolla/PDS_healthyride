@@ -1,0 +1,5 @@
+matplotlib>=1.5.1
+numpy>=1.13
+pandas>=0.20
+arrow>=0.10
+scikit_learn>=0.18
